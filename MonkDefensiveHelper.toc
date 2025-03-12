@@ -1,0 +1,7 @@
+## Interface: 100207
+## Title: MonkDefensiveHelper
+## Notes: Alerts you when you should use Monk defensives in raids.
+## Version: 0.1
+## Author: Crubz
+
+MonkDefensiveHelper.lua
